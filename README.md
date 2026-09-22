@@ -69,12 +69,8 @@ Error
 
 ## 📸 Preview
 
-Add a screenshot of your calculator here:
+<img width="810" height="886" alt="Screenshot 2026-09-23 022141" src="https://github.com/user-attachments/assets/910dbf7a-5452-4486-9faa-018136b6f8d2" />
 
-```text
-<img width="810" height="886" alt="image" src="https://github.com/user-attachments/assets/039fb41b-fa26-40cb-babc-72d4ef712601" />
-
-```
 
 ## 📚 What I Learned
 
